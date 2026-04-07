@@ -3,8 +3,6 @@
 <!-- ヘッダーバナー -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f6f8fa,100:dde8f5&height=180&section=header&text=ini&fontSize=56&fontColor=185fa5&fontAlignY=38&desc=Data%20Science%20%40%20Musashino%20Univ.&descAlignY=58&descSize=15&descColor=57606a" width="100%"/>
 
-<!-- タイピングアニメーション -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=185FA5&center=true&vCenter=true&width=520&lines=LLM+%2F+機械学習+%2F+データ分析;武蔵野大学+データサイエンス学部+4年;BohPJ同好会+前代表;Python+%2F+JavaScript+%2F+SQL" alt="Typing SVG"/>
 
 <br/>
 
@@ -47,18 +45,11 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ini-ei&show_icons=true&theme=default&hide_border=true&count_private=true&locale=ja" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ini-ei&layout=compact&theme=default&hide_border=true&langs_count=6" height="150"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ini-ei&theme=default&hide_border=true&locale=ja"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ini-ei&theme=flat&no-frame=true&column=6&margin-w=8"/>
-</p>
 
 ---
 
